@@ -1,4 +1,4 @@
-#include"server.h"
+#include"circular_queue_server_side.h"
 
 int main(void)
 {
@@ -21,4 +21,5 @@ int main(void)
     obj.Display();              //  20 30 40 50
 
     return 0;
+
 }
