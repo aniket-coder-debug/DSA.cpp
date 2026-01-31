@@ -1,4 +1,4 @@
-#include "server.h"
+#include "tree_server.h"
 
 node::node()
 {
@@ -102,3 +102,4 @@ int queue::CountNodes()
 
     return iCount;
 }
+
